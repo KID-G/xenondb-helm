@@ -1,20 +1,21 @@
 
 # Logo 产品名
 
+## 简介
+
+XenonDB 是基于 MySQL 的开源、高可用、云原生集群解决方案。
+
 ## 什么是 XenonDB？
 
-XenonDB 是基于 MySQL 的开源、高可用、云原生集群解决方案。通过使用 Raft 协议，XenonDB 可以快速进行故障转移，且不会丢失任何事务。具备金融级强一致性、主从秒级切换，集 InnoDB + TokuDB 双存储引擎支持的增强型 MySQL 集群应用。适用于对数据一致性和高可用性有强烈要求的企业用户。
+XenonDB 是一款具备金融级强一致性、主从秒级切换，集 InnoDB + TokuDB 双存储引擎支持的增强型 MySQL 集群应用。适用于对数据一致性和高可用性有强烈要求的企业用户。通过使用 Raft 协议，XenonDB 可以快速进行故障转移，且不会丢失任何事务。
 
-基于 MySQL 提供的数据库服务，支持一主多从高可用架构，集成 InnoDB + TokuDB 双存储引擎，支持自动备份、监控告警等管理功能
-
-界面截图
 
 ## 架构图
 
 ![容器版](https://github.com/KID-G/xenondb-helm/blob/main/XenoDB%20%E6%9E%B6%E6%9E%84%E5%9B%BE%20(1).png)
 
-
 ## 核心功能
+
 |   特性  |  描述   |
 | --- | --- |
 | 数据强一致性 | 金融版基于 Paxos 协议，采用一主两备三节点加购，自动脑裂保护处理   |
@@ -32,8 +33,6 @@ k8s 平台
 
 ## 文档
 
-
-
 ## 产品对比（性能测试等）
 
 ## Roadmap
@@ -41,7 +40,5 @@ k8s 平台
 ## 谁在使用？
 
 ![](https://github.com/KID-G/xenondb-helm/blob/main/users.png)
-
-
 
 
