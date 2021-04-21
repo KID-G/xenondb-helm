@@ -14,7 +14,7 @@ XenonDB 是一款具备金融级强一致性、主从秒级切换，集 InnoDB +
 
 ## 架构图
 
-![容器版](https://github.com/KID-G/xenondb-helm/blob/main/XenoDB%20%E6%9E%B6%E6%9E%84%E5%9B%BE%20(1).png)
+![](https://github.com/KID-G/xenondb-helm/blob/main/XenonDB_Architecture_1.png)
 
 ## 核心功能
 
