@@ -1,6 +1,8 @@
 
 # Logo 产品名
 
+中文 | English
+
 ## 简介
 
 XenonDB 是基于 MySQL 的开源、高可用、云原生集群解决方案。
