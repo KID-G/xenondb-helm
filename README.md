@@ -11,7 +11,7 @@ XenonDB 是基于 MySQL 的开源、高可用、云原生集群解决方案。�
 
 ## 架构图
 
-![容器版](https://files.mdnice.com/user/8081/a791845e-d0e8-4646-bfbd-5e513706adb8.png)
+![容器版](https://github.com/KID-G/xenondb-helm/blob/main/XenoDB%20%E6%9E%B6%E6%9E%84%E5%9B%BE%20(1).png)
 
 
 ## 核心功能
@@ -40,7 +40,7 @@ k8s 平台
 
 ## 谁在使用？
 
-![](./users.png)
+![](https://github.com/KID-G/xenondb-helm/blob/main/users.png)
 
 
 
