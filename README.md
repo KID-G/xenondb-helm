@@ -40,9 +40,8 @@ k8s 平台
 
 ## 谁在使用？
 
-![](https://files.mdnice.com/user/8081/32eb22ce-aa9f-47fd-808b-ee1455bb70e7.jpeg){width="100px"}
-![](https://files.mdnice.com/user/8081/aa89a87b-31c5-4231-bfd8-ceaa90c99242.png){width="100px"}
-![](https://files.mdnice.com/user/8081/4a2053e3-bb7e-4d86-a27b-22c47eda8115.jpg){width="100px"}
+![](./users.png)
+
 
 
 
